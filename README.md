@@ -17,6 +17,7 @@ Also as a number of Apache tuners claim that your MinSpareServers should be 10-2
 I recommend to before execute this script install Mod Ruid2 will improve the performance of your server
  
 apt-get install libapache2-mod-ruid2
+
 service apache2 restart
 
 INSTALL APACHE2TUNE
