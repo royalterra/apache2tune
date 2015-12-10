@@ -29,18 +29,31 @@ chmod +x Apache2tune.sh
 ./Apache2tune.sh
 
 And you will get something like that test in my home computer with 8 gb ram 
+
 Calculate MaxClients by dividing biggest Apache thread by free memory
+
 Stopping apache2 to calculate the amount of free memory
+
 Starting apache2 again
+
 Total memory 8192
+
 Free memory 6147
+
 Amount of virtual memory being used 0
+
 Largest Apache Thread size 44
+
 Amount of memory taking up by MySQL 471
+
 Virtual memory is ok
+
 Total Free Memory 6147
+
 MaxClients should be around 139
+
 MinSpareServers should be around 34
+
 MaxSpareServers should be around 69
 
 Of course this script will calculate accordig to your server performance . 
