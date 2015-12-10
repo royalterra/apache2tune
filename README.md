@@ -65,6 +65,7 @@ Something like:
 
 [core:notice] [pid 26644] AH00052: child pid 26709 exit signal Aborted (6)
 
+Possible you have activate any Mod CGI deactivate Mod CGI if NOT 
 try to deactivate mod ruid2 possible you need to configure something more.
 
 
