@@ -21,8 +21,11 @@ service apache2 restart
 
 INSTALL APACHE2TUNE
 git clone https://github.com/royalterra/apache2tune.git
+
 cd apache2tune
+
 chmod +x Apache2tune.sh
+
 ./Apache2tune.sh
 
 And you will get something like that test in my home computer with 8 gb ram 
