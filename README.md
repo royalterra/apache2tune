@@ -57,7 +57,10 @@ MinSpareServers should be around 34
 
 MaxSpareServers should be around 69
 
-Of course this script will calculate accordig to your server performance . 
+Of course this script will calculate accordig to your server performance .  With a veriables like that I setup 
+MaxRequestsPerChild 1500
+
+All depends of yoru Server CPU Ram and performance but now you can get a numbers for play around 
 
 
 
